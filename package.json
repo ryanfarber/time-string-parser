@@ -1,6 +1,6 @@
 {
   "name": "time-string-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "convert a string to units of time",
   "main": "index.js",
   "scripts": {

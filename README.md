@@ -5,6 +5,12 @@ You can use any of the conventional spellings/abbreviations of time units.
 
 Ex: 10 weeks/wks, 14 hours/hrs/H
 
+the function takes 2 arguments
+
+`string`: your time string
+
+`decimals`: number of digits to appear after decimal point (optional, default is 2)
+
 
 ```javascript
 var timestring = require("time-string-parser")
