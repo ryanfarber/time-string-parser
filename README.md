@@ -1,17 +1,15 @@
 # time-string-parser
-converts an arbitrary string of an amount of time to other units of time.
+Converts an arbitrary string of an amount of time to other units of time. You can use any of the conventional spellings/abbreviations of time units.
 
-You can use any of the conventional spellings/abbreviations of time units.
+Ex: *10 weeks/wks, 14 hours/hrs/H*
 
-Ex: 10 weeks/wks, 14 hours/hrs/H
-
-the function takes 2 arguments
+The function takes 2 arguments:
 
 `string`: your time string
 
-`decimals`: number of digits to appear after decimal point (optional, default is 2)
+`number`: number of digits to appear after decimal point (optional, default is 2)
 
-
+## example
 ```javascript
 var timestring = require("time-string-parser")
 
