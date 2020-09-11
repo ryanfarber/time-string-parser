@@ -1,6 +1,6 @@
 {
   "name": "time-string-parser",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "convert a string to units of time",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,9 @@
     "parse",
     "convert",
     "units",
-    "date"
+    "date",
+    "timestamp",
+    "formatting"
   ],
   "author": "ryan forever",
   "license": "ISC",
