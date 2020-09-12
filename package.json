@@ -1,29 +1,29 @@
 {
-  "name": "time-string-parser",
-  "version": "1.0.3",
-  "description": "convert a string to units of time",
-  "main": "index.js",
-  "scripts": {
-    "test": "node test.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ryanfarber/time-string-parser.git"
-  },
-  "keywords": [
-    "time",
-    "string",
-    "parse",
-    "convert",
-    "units",
-    "date",
-    "timestamp",
-    "formatting"
-  ],
-  "author": "ryan forever",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ryanfarber/time-string-parser/issues"
-  },
-  "homepage": "https://github.com/ryanfarber/time-string-parser#readme"
+	"name": "time-string-parser",
+	"version": "1.0.4",
+	"description": "convert a string to units of time",
+	"main": "index.js",
+	"scripts": {
+		"test": "node test.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ryanfarber/time-string-parser.git"
+	},
+	"keywords": [
+		"time",
+		"string",
+		"parse",
+		"convert",
+		"units",
+		"date",
+		"timestamp",
+		"formatting"
+	],
+	"author": "ryan forever",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/ryanfarber/time-string-parser/issues"
+	},
+	"homepage": "https://github.com/ryanfarber/time-string-parser#readme"
 }
